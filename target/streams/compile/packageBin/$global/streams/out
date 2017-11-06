@@ -1,0 +1,9 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging C:\pint\SparkDependencies\alteryx-spark-utils\target\scala-2.11\alteryxsparkutils_2.11-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AlteryxSparkUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\pint\SparkDependencies\alteryx-spark-utils\target\scala-2.11\classes\AlteryxSparkUtils$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AlteryxSparkUtils$AlteryxMessageLogAccumulator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\pint\SparkDependencies\alteryx-spark-utils\target\scala-2.11\classes\AlteryxSparkUtils$AlteryxMessageLogAccumulator$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	AlteryxSparkUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\pint\SparkDependencies\alteryx-spark-utils\target\scala-2.11\classes\AlteryxSparkUtils.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
